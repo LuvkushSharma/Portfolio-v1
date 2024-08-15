@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import "./FlareCursor.css";
+import "./Flarecursor.css";
 
 // This functional component represents a custom cursor with a flare effect.
 function FlareCursor() {
