@@ -1,10 +1,11 @@
 import { Reveal } from "./custom/reveal";
+import Image from "next/image";
 
 export default function About() {
   return (
     <section className="about-section flex flex-col items-center justify-center gap-4 sm:py-32 py-16" id="about">
       <div className="about-hero flex justify-center items-center" >
-        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="About Me" width="30px" />
+        <Image src="/projects_images/Hi.gif" alt="About Me" width={30} height={30}/>
         <h1 className="text-4xl font-bold text-center text-gray-800 dark:text-gray-100">About Me</h1>
       </div>
       <Reveal

@@ -17,7 +17,7 @@ export default function Contact() {
                 whileInView={{ opacity: 1, y: 0, transition: { duration: 0.4 } }}
             >
                 <p className="leading-7">
-                    If you'd like to get in touch with me, feel free to reach out on LinkedIn or my email and I'll get back to you whenever I can.
+                    If you&rsquo;d like to get in touch with me, feel free to reach out on LinkedIn or my email and I&rsquo;ll get back to you whenever I can.
                 </p>
             </Reveal>
             <div className="flex gap-4">

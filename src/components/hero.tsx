@@ -40,7 +40,7 @@ export default function Hero() {
         >
           <p className="leading-7">
             I plan, design, build, test and deploy software. With the help of
-            coffee of course.
+            tea of course.
           </p>
         </Reveal>
         <div className="flex gap-4">
