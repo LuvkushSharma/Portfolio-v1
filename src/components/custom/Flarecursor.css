@@ -1,0 +1,44 @@
+.flare {
+  position: fixed;
+  border: 2px solid #ffffff;
+  border-radius: 50%;
+  mix-blend-mode: screen;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  z-index: 999999 !important;
+  backdrop-filter: blur(5px);
+  background-color: rgba(0, 0, 0, 0.5);
+  transition: width 0.2s ease-in-out, height 0.2s ease-in-out, opacity 0.2s ease-in-out;
+  cursor: none !important; /* Hide the default cursor */
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+}
+
+/* Animation for flare */
+@keyframes flareAnimation {
+  0% {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 0.8;
+  }
+  50% {
+    transform: translate(-50%, -50%) scale(1.5);
+    opacity: 0.5;
+  }
+  100% {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 0.8;
+  }
+}
+
+/* Apply animation */
+.flare.pointer {
+  animation: flareAnimation 1s infinite;
+}
+
+/* Hide custom cursor on mobile devices */
+@media screen and (max-width: 768px) {
+  .flare {
+    width: 0;
+    height: 0;
+    transition: width 0.2s ease-in-out, height 0.2s ease-in-out, opacity 0.2s ease-in-out;
+  }
+}

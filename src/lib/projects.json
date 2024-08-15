@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Crowdsourced Urban Artmap",
+        "description": "Urban art, including graffiti, murals, and street installations, often goes undocumented and underappreciated due to its ephemeral nature and lack of visibility. This project aims to create a platform where urban art enthusiasts can document, share, and explore urban artworks from around the world, preserving them digitally for a global audience.",
+
+        "type": "Bachelor's Degree Final Year Project",
+        "imageUrl": "/projects_images/crowdsourced.png",
+        "githubUrl": "https://github.com/LuvkushSharma/Urban-Artmap",
+        "demoUrl": "https://crowdsourced-urban-artmap.onrender.com/",
+        "skills": [
+            "JavaScript",
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "Nodemailer",
+            "Tailwind",
+            "Material UI",
+            "Aceternity UI",
+            "Render"
+        ]
+    },
+    {
+        "title": "Dost (Frnd Finder)",
+
+        "description": "Dost: Building Meaningful Connections through Shared Passions. In today's fast-paced world, finding friends who share your interests can be a challenge. Dost, which translates to \"friend\" in Hindi, aims to bridge this gap by leveraging the power of technology to connect you with like-minded individuals.",
+
+        "type": "Bachelor's Degree Final Year Project",
+        "imageUrl": "/projects_images/dost.png",
+
+        "githubUrl": "https://github.com/LuvkushSharma/Dost_Frontend",
+        "demoUrl": "https://dostfrnd.onrender.com/",
+        "skills": [
+            "JavaScript",
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "Socket.io",
+            "Material UI",
+            "Nodemailer",
+            "Render"
+        ]
+    },
+    {
+        "title": "Natours - A Tour Booking Website",
+        "description": "Developed web application to book dream destination of users. Book Destinations Dynamically Using Stripe",
+        "type": "Personal Project",
+        "imageUrl": "/projects_images/natours.png",
+        "githubUrl": "https://github.com/LuvkushSharma/Natours_Website",
+        "demoUrl": "https://natours-e1sm.onrender.com",
+        "skills": [
+            "JavaScript",
+            "Pug",
+            "Express.js",
+            "MongoDB",
+            "Node.js",
+            "HTML",
+            "CSS"
+        ]
+    }
+]

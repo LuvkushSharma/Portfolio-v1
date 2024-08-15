@@ -1,0 +1,46 @@
+[
+    {
+        "title": "B.Tech (Hons.) in Computer Science and Engineering",
+        "name": "GLA University",
+        "date": "Oct 2021 - Present",
+        "description": "Part of a team responsible for maintaining a system that aids Dell Technologies' customer-facing operations. My contributions encompass developing comprehensive unit tests to ensure code integrity, executing regression testing tasks to ensure the system works as expected, and implementing feature enhancements and modifications in alignment with stakeholder specifications.",
+        "skills": [
+            "Data Structures and Algorithms",
+            "Database Management Systems",
+            "Operating Systems",
+            "Computer Networks",
+            "Software Engineering",
+            "Web Development",
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing"
+        ]
+    },
+    {
+        "title": "Intermediate Education",
+        "name": "Shivalik Public School",
+        "date": "April 2020 - March 2021",
+        "description": "I architected a scalable system for rapid deployment, making key decisions on cloud infrastructure, database management, and design paradigms. Led a team of 3 in developing backend services for web and mobile using REST APIs and component-based software engineering. Collaborated with frontend engineers for seamless integration, implemented CI/CD pipelines with GitHub Actions for automated build, test, and deployment processes.",
+        "skills": [
+            "Physics",
+            "Chemistry",
+            "Mathematics",
+            "Physical Education",
+            "English"
+        ]
+    },
+    {
+        "title": "Higher Secondary Education",
+        "name": "Shivalik Cambridge School",
+        "date": "April 2018 - March 2019",
+        "description": "Designed and developed a software that streamlines inventory management process for internal employees. Collaborated with other engineers on existing internal systems to implement feature enhancements and modifications.",
+        "skills": [
+            "Science",
+            "Mathematics",
+            "English",
+            "Hindi",
+            "Computer",
+            "S.St."
+        ]
+    }
+]
