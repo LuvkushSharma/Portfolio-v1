@@ -44,7 +44,7 @@ export default function RootLayout({
           <NavigationBar />
           <main className="w-full px-8 py-1 mx-auto">{children}</main>
           <footer className="container mx-auto py-4">
-            <Link href="" target="_blank">
+            <Link href="#hero" target="_blank">
               <p className="text-center text-sm text-muted-foreground hover:text-white transition-all">
                 © Designed & Built by Luvkush Sharma ·{" "}
                 {new Date().getFullYear()}
